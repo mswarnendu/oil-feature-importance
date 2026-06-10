@@ -17,7 +17,7 @@ To evaluate the relative importance of different financial indicators in forecas
 ## Methods
 
 - Feature engineering using lagged variables and moving averages
-- Integration of market indicators (SPY, VIX, oil-related features)
+- Integration of market indicators (SPY, VIX, crude oil-related features)
 - Machine learning model used for predictive analysis
 - Feature importance extraction from trained model
 - Performance evaluation on historical data
@@ -26,7 +26,7 @@ To evaluate the relative importance of different financial indicators in forecas
 
 ## Key Findings
 
-- Lagged oil features contribute significantly to predictive performance in medium volatility regimes.
+- Oil based features contribute significantly to predictive performance in medium volatility regimes.
 - Volatility indicators (e.g., VIX) show meaningful influence on model output, but do not dominate.
 - Equity market signals (e.g., SPY) provide dominant predictive signal in stable and crisis regimes.
 
