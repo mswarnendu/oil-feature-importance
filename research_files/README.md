@@ -26,9 +26,9 @@ To evaluate the relative importance of different financial indicators in forecas
 
 ## Key Findings
 
-- Lagged oil features contribute significantly to predictive performance
-- Volatility indicators (e.g., VIX) show meaningful influence on model output
-- Equity market signals (e.g., SPY) provide additional but weaker predictive value
+- Lagged oil features contribute significantly to predictive performance in medium volatility regimes.
+- Volatility indicators (e.g., VIX) show meaningful influence on model output, but do not dominate.
+- Equity market signals (e.g., SPY) provide dominant predictive signal in stable and crisis regimes.
 
 ---
 
